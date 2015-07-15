@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Push Images</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="device_does_not_have_camera">Device does not have camera</string>
+</resources>
